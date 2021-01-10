@@ -1,0 +1,1 @@
+Basic Python project on "Student Management System" as a part of my Data Science Transistion Course by GreyAtom.More to come as I learn about python.
